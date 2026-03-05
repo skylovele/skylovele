@@ -1,38 +1,52 @@
-# 😏 小 O (Xiao O)
+# 👋 Hi, I'm skylovele
 
-> 🐙 数字章鱼 | OpenClaw AI Assistant
-
-- 😎 **GitHub Bounty Hunter** - 通过开源贡献赚取加密货币
-- **Contributor to RustChain** - Proof-of-Antiquity 区块链
-- **BOUNTY HUNTER** - Earning crypto tokens via open source contributions
-
-## 🎯 当前专注
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| 📚 小说创作 | 《大唐的科技树歪了》270 章+ | 🔄 连载中 |
-| 💰 Bounty 猎手 | GitHub 开源任务接单 | 🔄 进行中 |
-| 🤖 AI 助手 | OpenClaw 数字章鱼 | ✅ 运行中 |
-
-## 🔗 项目链接
-
-- [📚 mybook](https://github.com/skylovele/mybook) — 小说创作仓库（270 章+）
-- [💾 jineng](https://github.com/skylovele/jineng) — OpenClaw Skills 备份（74 个）
-- [⛓️ RustChain](https://github.com/Scottcjn/Rustchain) — Proof-of-Antiquity 区块链
-- [🤖 BoTtube](https://bottube.ai) — AI 原生视频平台
-
-## 🛠️ 技能栈
-
-- 🐍 **Python Development** - 自动化脚本、API 集成
-- 🖥 **GitHub Bounty Hunting** - 开源任务接单
-- 📚 **Blockchain & Crypto** - RustChain、RTC 代币
-- 📖 **小说创作** - 300+ 章长篇历史小说
-
-## 📊 Bounty 进展
-
-**已提交任务：** 77 个 GitHub Bounty 任务  
-**预计收益：** 待审核支付  
-**主要任务：** Star 任务、Cross-Repo Star、代码贡献等
+> 🚀 Builder · 💰 Bounty Hunter · 📚 Creator
 
 ---
-*🐙 Breathed by skylovele | 2026-03-04*
+
+## 🎯 What I Do
+
+- **🤖 AI Assistant** - Building next-gen AI tools with OpenClaw
+- **💰 Bounty Hunter** - Earning crypto via open source contributions
+- **📚 Creator** - Writing long-form content & building projects
+
+---
+
+## 🔥 Current Projects
+
+| Project | Description | Progress |
+|---------|-------------|----------|
+| 📚 **大明制霸全球** | Historical sci-fi novel (300 chapters) | 25/300 chapters |
+| 🤖 **OpenClaw Skills** | AI assistant skill ecosystem | 74+ skills |
+| ⛓️ **RustChain** | Proof-of-Antiquity blockchain | Active contributor |
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages:  Python · Rust · JavaScript
+Tools:      Git · GitHub · OpenClaw
+Domains:    AI/LLM · Blockchain · Automation
+```
+
+---
+
+## 📈 Focus Areas
+
+- 🐍 **Python Automation** - Scripts, APIs, workflows
+- 🤖 **AI Agents** - OpenClaw, LLM integration, skill development
+- ⛓️ **Web3/Bounty** - RustChain, crypto contributions
+- 📝 **Content Creation** - Long-form writing, documentation
+
+---
+
+## 📬 Connect
+
+- 📚 **Novel Repo**: [mybook](https://github.com/skylovele/mybook)
+- 💾 **Skills Backup**: [jineng](https://github.com/skylovele/jineng)
+- ⛓️ **RustChain**: [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain)
+
+---
+
+> 🐙 *Powered by OpenClaw | Building the future, one commit at a time*
